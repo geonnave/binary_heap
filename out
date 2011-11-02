@@ -1,0 +1,147 @@
+insert 1
+1
+
+it's all right =D
+
+
+nivels: 2
+insert 2
+ 2
+ 1 
+it's all right =D
+
+
+nivels: 2
+insert 3
+  3
+   2  1
+
+it's all right =D
+
+
+nivels: 4
+insert 4
+   4
+    3    1
+ 2 
+it's all right =D
+
+
+nivels: 4
+insert 5
+    5
+    4    3
+   2  1 
+it's all right =D
+
+
+nivels: 4
+insert 6
+     6
+     5      4
+   2  1  3 
+it's all right =D
+
+
+nivels: 4
+insert 7
+      7
+     6      4
+   5  1    3  2
+
+it's all right =D
+
+
+nivels: 8
+insert 8
+       8
+      7        4
+    6    1      3    2
+ 5 
+it's all right =D
+
+
+nivels: 8
+insert 9
+        9
+      8        7
+    6    4      3    2
+   5  1 
+it's all right =D
+
+
+nivels: 8
+insert 10
+         10
+       9          8
+    6    7      3    2
+   5  1  4 
+it's all right =D
+
+
+nivels: 8
+insert 11
+          11
+       10          9
+    6    7      8    2
+   5  1    4  3 
+it's all right =D
+
+
+nivels: 8
+insert 12
+           12
+        11            10
+     6      7        9      2
+   5  1    4  3  8 
+it's all right =D
+
+
+nivels: 8
+insert 13
+            13
+        12            10
+     11      7        9      6
+   5  1    4  3    8  2 
+it's all right =D
+
+
+nivels: 8
+insert 14
+             14
+         13              10
+     12      7        9      11
+   5  1    4  3    8  2  6 
+it's all right =D
+
+
+nivels: 8
+insert 15
+              15
+         14              10
+     13      7        9      11
+   12  1    4  3    8  2    6  5
+
+it's all right =D
+
+
+nivels: 16
+remove last
+             14
+         13              10
+     12      7        9      11
+   5  1    4  3    8  2  6 
+it's all right =D
+
+
+nivels: 8
+insert 50
+              50
+         14              10
+     13      7        9      11
+   12  1    4  3    8  2    6  5
+
+it's all right =D
+
+
+nivels: 16
